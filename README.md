@@ -12,7 +12,7 @@ Business Administration at FGV-EAESP, São Paulo.
 
 ### Financial markets
 
-**[Rede_Conselheiros_Brasil](https://github.com/Appa019/Rede_Conselheiros_Brasil)** — Social network
+**[board-network-brazil](https://github.com/Appa019/board-network-brazil)** — Social network
 analysis of board members at Brazilian publicly traded companies. Neo4j graph, power-concentration
 metrics with NetworKit in parallel C++, and link prediction with Node2Vec, over public CVM data from
 2021 to 2025.
@@ -21,17 +21,17 @@ metrics with NetworKit in parallel C++, and link prediction with Node2Vec, over 
 regulatory filings (FRE, DFP, FCA, IPE) against CVM Resolution 80: a 156-item checklist, semantic
 diff between versions, and a multi-agent RAG chat that cites the source passage.
 
-**[Portifolio_AI](https://github.com/Appa019/Portifolio_AI)** — Portfolio management with a three-tier
+**[portfolio-ai](https://github.com/Appa019/portfolio-ai)** — Portfolio management with a three-tier
 agent hierarchy over an ensemble of XGBoost, BiLSTM-Attention and Temporal Fusion Transformer, with
 live B3 data and walk-forward validation.
 
 ### Machine learning
 
-**[Detector_IA_ML_DL](https://github.com/Appa019/Detector_IA_ML_DL)** — Detector for AI-generated
+**[ai-image-detector](https://github.com/Appa019/ai-image-detector)** — Detector for AI-generated
 images and video. Ensemble of nine deep learning models (ViT, CLIP, SigLIP, EfficientNet) with a
 meta-learner, returning a confidence score and forensic analysis.
 
-**[SLM_Setup_Wizard](https://github.com/Appa019/SLM_Setup_Wizard)** — Wizard for fine-tuning small
+**[slm-setup-wizard](https://github.com/Appa019/slm-setup-wizard)** — Wizard for fine-tuning small
 language models locally, on a single GPU or on Colab, with LoRA and 4-bit quantization.
 
 ### Explainers
@@ -40,15 +40,15 @@ language models locally, on a single GPU or on Colab, with LoRA and 4-bit quanti
 actually works — chunking, embeddings, indexing — and on how MCP and tool use differ from a
 conventional API.
 
-**[Vizualizacao_LLM](https://github.com/Appa019/Vizualizacao_LLM)** — Interactive walkthrough of the
+**[llm-visualizer](https://github.com/Appa019/llm-visualizer)** — Interactive walkthrough of the
 transformer architecture.
 
 ### Product and hardware
 
-**[PetShop_Scheduler](https://github.com/Appa019/PetShop_Scheduler)** — 8Patas: a veterinary platform
+**[petshop-scheduler](https://github.com/Appa019/petshop-scheduler)** — 8Patas: a veterinary platform
 with breed identification by computer vision and an AI-generated preventive care schedule.
 
-**[Smart-AI-Plant-Controller](https://github.com/Appa019/Smart-AI-Plant-Controller)** — ESP32 plant
+**[smart-plant-controller](https://github.com/Appa019/smart-plant-controller)** — ESP32 plant
 controller with a virtual pet, FastAPI backend and a live monitoring dashboard.
 
 ---
