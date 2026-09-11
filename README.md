@@ -17,7 +17,7 @@ analysis of board members at Brazilian publicly traded companies. Neo4j graph, p
 metrics with NetworKit in parallel C++, and link prediction with Node2Vec, over public CVM data from
 2021 to 2025.
 
-**[cvm-analyser](https://github.com/Appa019/cvm-analyser)** — Compliance assessment of Brazilian
+**[cvm-analyzer](https://github.com/Appa019/cvm-analyzer)** — Compliance assessment of Brazilian
 regulatory filings (FRE, DFP, FCA, IPE) against CVM Resolution 80: a 156-item checklist, semantic
 diff between versions, and a multi-agent RAG chat that cites the source passage.
 
@@ -36,7 +36,7 @@ language models locally, on a single GPU or on Colab, with LoRA and 4-bit quanti
 
 ### Explainers
 
-**[educacional-rag-mcp](https://github.com/Appa019/educacional-rag-mcp)** — A visual essay on how RAG
+**[rag-and-mcp-explained](https://github.com/Appa019/rag-and-mcp-explained)** — A visual essay on how RAG
 actually works — chunking, embeddings, indexing — and on how MCP and tool use differ from a
 conventional API.
 
